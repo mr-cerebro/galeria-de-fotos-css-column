@@ -1,6 +1,7 @@
 const linksImages = [
   "/assets/img/mitanatraining-angola.jpg",
-  "/assets/img/silvfa.ao.png",
+  "/assets/img/silvfa.ao.jpg",
+  "/assets/img/quiz-js.jpg"
 ];
 
 function shuffle(list) {
