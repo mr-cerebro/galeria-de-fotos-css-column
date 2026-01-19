@@ -6,6 +6,7 @@ const linksImages = [
   "/assets/img/social-link-profile.jpg",
   "/assets/img/projecto-redstore.jpg",
   "/assets/img/interface-netflix.jpg",
+  "/assets/img/galeria-de-fotos-css-column.jpg",
 ];
 
 function shuffle(list) {
