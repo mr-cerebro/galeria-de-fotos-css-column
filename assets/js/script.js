@@ -4,7 +4,8 @@ const linksImages = [
   "/assets/img/quiz-js.jpg",
   "/assets/img/make-your-burger.jpg",
   "/assets/img/social-link-profile.jpg",
-  "/assets/img/projecto-redstore.jpg"
+  "/assets/img/projecto-redstore.jpg",
+  "/assets/img/interface-netflix.jpg",
 ];
 
 function shuffle(list) {
